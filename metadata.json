@@ -1,0 +1,6 @@
+{
+  "name": "The Coffee Cup",
+  "description": "Discover the art of perfect coffee. Customize your blends, preview signature recipes, and matching coffee pairings with The Roast Master AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
